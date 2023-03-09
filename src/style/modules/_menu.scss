@@ -1,0 +1,16 @@
+.el-main {
+  .el-menu {
+    .el-menu-item {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      img {
+        width: 20px;
+      }
+      span {
+        line-height: 24px;
+      }
+    }
+  }
+}
